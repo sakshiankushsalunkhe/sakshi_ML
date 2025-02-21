@@ -1,10 +1,14 @@
 # sakshi_ML
-# Assignment
+# Assignment No .1
+### Take a usecase in any domain and explain below points properly
+
                                         
 Let's take the example of a ##Healthcare System## use case, specifically focusing on a **hospital's patient management system**.
 
 ### 1. Data: 
 In the context of a healthcare system, data plays a crucial role in providing patient care, tracking medical history, diagnosing, and improving the hospital's efficiency. Let’s break this down into Data Sources, Data Issues, and Types of Data.
+- **Data:**:Data Sources, Data Issues, Types of Data
+- **Problem Statement:** 
 
 #### **Data Sources**:
 - **Electronic Health Records (EHR)**: This is the digital version of a patient's medical chart. It includes data like medical history, prescriptions, test results, diagnoses, and doctor notes.

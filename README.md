@@ -1,70 +1,70 @@
-# sakshi_ML
-# Assignment No .1
+# 📚 Data Science Assignments - README
+Welcome to the collection of assignments designed to help you strengthen your data science and machine learning skills. This document provides an overview of the assignments and what you need to do for each.
 
-### Take a usecase in any domain and explain below points properly
+# 📝 Assignment No - 1: Use Case & Data Understanding
+Objective:
 
+Data Sources, Data Issues, Types of Data: Explore a real-world use case in any domain (e.g., healthcare, finance, or e-commerce) and explain the data sources, potential issues, and the types of data involved.
+Problem Statement: Define a clear problem to solve, outlining the scope and challenges.
 
-- **Data:**:Data Sources, Data Issues, Types of Data
-- **Problem Statement:**
+# 🐍 Assignment No - 2: Python Datatypes
+Objective:
 
-  # Data
-   take a **healthcare use case** to explain the points you've mentioned.
+Understand and apply different Python data types including: int, float, complex, list, tuple, str, set, dict, and bool.
+Use the help() function for detailed documentation and references.
+Resources:
 
-### 1. **Data: Data Sources, Data Issues, Types of Data**
+Notebook Link: Click Here
+# 📊 Assignment No - 3: Data Analysis & Visualization Libraries
+Objective:
 
-#### **Data Sources:**
-In the healthcare domain, data sources are varied and can be categorized into several types:
+Numpy (100 exercises): Solve using help(np) and help(np.function_name).
+Pandas (100 exercises): Solve using help(pd) and help(pd.function_name).
+Matplotlib: Draw 10 graphs with proper interpretations.
+Seaborn: Draw 10 graphs with proper interpretations.
 
-- **Electronic Health Records (EHR):** These are digital versions of a patient's paper charts. They contain information such as patient history, diagnoses, medications, treatment plans, and test results. These records are stored in healthcare databases and can be accessed by authorized healthcare professionals.
-  
-- **Medical Imaging Systems:** Data from CT scans, MRIs, X-rays, ultrasounds, etc., which are used for diagnosis. These images are typically stored in specialized databases like PACS (Picture Archiving and Communication Systems).
+# 🧑‍💻 Assignment No - 4: Kaggle Dataset Analysis
+Objective:
 
-- **Wearables & IoT Devices:** Devices like smartwatches or fitness trackers that monitor a patient's health parameters (heart rate, steps taken, sleep patterns, etc.) and transmit the data for healthcare monitoring.
+Choose any dataset from platforms like Kaggle, data.gov.in, or data.gov.
+Display Data: Show the first 5 rows of the dataset using Pandas.
+Task:
 
-- **Clinical Trials Data:** Data gathered from clinical studies to test new drugs or medical treatments. This includes patient outcomes, drug efficacy, and adverse reactions.
+Generate 100 real-world questions based on the dataset that can be solved using Numpy, Pandas, Matplotlib, and Seaborn.
+Solve these questions in Jupyter notebook.
+Reference:
 
-- **Health Insurance Data:** Claims data, policyholder information, and reimbursement information collected by insurance companies, used for determining patient costs and payments.
+quest.png for detailed question generation.
 
-- **Patient-Reported Data:** This data comes directly from patients through surveys, self-reports, or mobile apps about symptoms, lifestyle habits, and mental health.
+# 🧠 Assignment No - 5: Implementing Machine Learning Algorithms
+Objective:
 
-#### **Data Issues:**
-Data in healthcare is often subject to several challenges:
+Implement multiple machine learning algorithms, including:
+Linear Regression (Simple & Multiple)
+Logistic Regression
+Decision Tree Regressor & Classifier
+Random Forest
+Naive Bayes
+Support Vector Classifier (SVC)
+XGBoost
+Note:
+Only one Colab notebook is allowed per assignment.
 
-- **Data Quality Issues:** Incomplete, inconsistent, or outdated data. For example, if an EHR system contains incorrect patient history or misrecorded dosages, it can lead to incorrect diagnoses or treatment plans.
+# 🧑‍🔬 Assignment No - 6: Artificial Neural Network (ANN)
+Objective:
 
-- **Data Privacy and Security Concerns:** Health data is highly sensitive and subject to strict regulations (e.g., HIPAA in the U.S.). Ensuring that personal health information is protected from breaches is a critical issue.
+Build and implement an Artificial Neural Network (ANN) on any dataset of your choice.
+Resources:
 
-- **Interoperability Challenges:** Healthcare data comes from multiple systems (EHRs, lab systems, imaging systems), which may not be able to communicate with each other. This can result in fragmented patient information and inefficiency in care delivery.
-
-- **Data Overload:** Healthcare professionals often have to process vast amounts of data, which can overwhelm them and lead to errors or delays in decision-making.
-
-- **Bias and Incomplete Data:** Some data, especially from underrepresented groups, may be lacking, leading to biased conclusions or health disparities. This can be problematic in areas like drug testing, where certain demographics might not be well-represented.
-
-#### **Types of Data:**
-Healthcare data can be classified into several categories:
-
-- **Structured Data:** Data that is highly organized and easily searchable, such as numerical information in EHR systems (e.g., patient age, weight, lab test results, medication dosages).
-
-- **Unstructured Data:** Free-text data that may contain valuable information but is harder to analyze directly, such as doctor’s notes, diagnostic images, and patient feedback.
-
-- **Semi-structured Data:** Data that is not fully organized but still contains some level of structure, such as medical reports in XML format or data from wearable devices with timestamps and measurements.
-
-- **Time-series Data:** Data that is collected over time, such as heart rate monitoring over a 24-hour period or blood pressure readings.
-
-- **Categorical Data:** Data that can be classified into different categories, such as disease types, patient demographics (e.g., male, female), or symptoms (e.g., fever, headache).
-
-### 2. **Problem Statement**
-
-#### **Problem:**
-In the healthcare industry, the timely and accurate diagnosis of chronic diseases, such as diabetes, is often hindered by fragmented data, inefficient communication between systems, and the lack of real-time monitoring. Many patients are not diagnosed early enough, or the treatment is not optimal because healthcare providers do not have a holistic view of the patient's health data.
-
-#### **Problem Statement Example:**
-"Due to fragmented and siloed healthcare data systems, healthcare providers face significant challenges in accessing comprehensive and accurate patient information, leading to delays in diagnosing chronic diseases like diabetes. Furthermore, healthcare professionals struggle to make informed decisions due to incomplete patient history, inconsistent records, and lack of real-time data from wearable devices, contributing to suboptimal care and higher healthcare costs."
-
-In this use case, the problem is that the fragmented healthcare data systems prevent the creation of a unified, real-time, and comprehensive view of patient health, which impedes the ability to provide timely and effective care for chronic diseases. The lack of interoperability between systems and the absence of real-time health monitoring data worsen the situation.
-
-
-
+Recordings
+# Project Templates
+## 🚀 Summary & Tips
+Ensure you tackle each task with clear, well-commented code and visualizations.
+Maintain a logical flow from data collection to analysis and modeling.
+Use Colab for an interactive and accessible environment to complete these tasks.
+Don’t forget to reference resources and explain each step comprehensively to showcase your learning process.
+Happy Coding! 🚀
+Let's make data magic happen! ✨
 
 
 

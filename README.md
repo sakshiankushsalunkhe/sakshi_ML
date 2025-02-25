@@ -1,4 +1,4 @@
-# 📚 Data Science Assignments - README
+# 📚 Data Science Assignments 
 Welcome to the collection of assignments designed to help you strengthen your data science and machine learning skills. This document provides an overview of the assignments and what you need to do for each.
 
 # 📝 Assignment No - 1: Use Case & Data Understanding
